@@ -3,10 +3,5 @@
     "description": "test lib",
     "type": "library",
     "license": "MIT",
-    "require": {},
-	"autoload": {
-		"psr-4": {
-			"": ""
-		}
-	}
+    "require": {}
 }
