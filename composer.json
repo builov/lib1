@@ -5,8 +5,8 @@
     "license": "MIT",
     "require": {},
 	"autoload": {
-		"files": {
+		"files": [
 			"lib.php"
-		}
+		]
 	}
 }
